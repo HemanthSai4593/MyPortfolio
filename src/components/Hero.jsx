@@ -77,13 +77,14 @@ export default function Hero() {
             View My Work
           </a>
           <a
-            href="/resume/Hemanth%20Sai%20Resume_____.pdf"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="px-6 py-2 rounded-lg border border-violet-400 hover:bg-violet-700 transition font-medium shadow-lg hover:shadow-[0_0_25px_rgba(139,92,246,0.5)]"
-          >
-            Resume
-          </a>
+  href="/resume/Hemanth Sai Resume.pdf"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="px-6 py-2 rounded-lg border border-violet-400 hover:bg-violet-700 transition font-medium shadow-lg hover:shadow-[0_0_25px_rgba(139,92,246,0.5)]"
+>
+  Download Resume
+</a>
+
         </div>
       </motion.div>
     </section>
